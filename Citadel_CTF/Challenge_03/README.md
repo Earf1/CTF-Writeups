@@ -40,8 +40,9 @@ JPEG SOS
 Here "kdj had a habit of hiding images within images", made me open the image in hxd, where i found another ``FF D8 FF E9`` header, which i carved out till the EOF i.e. ``FF D9``.
 
 This gave me another image which had the flag.
+
 ![alt text](Untitled3.png)
 
 ## Flag
 `citadel{th1s_ch4ll3ng3_1s_f0r_th4t_0n3_ex1ft00l_4nd_b1nw4lk_enthus14st}`
-``````
+
