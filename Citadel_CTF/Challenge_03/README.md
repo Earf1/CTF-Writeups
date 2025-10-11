@@ -41,7 +41,8 @@ Here "kdj had a habit of hiding images within images", made me open the image in
 
 This gave me another image which had the flag.
 
-![alt text](Untitled3.png)
+![Untitled1](https://github.com/user-attachments/assets/0b396007-1c1f-4c48-ac8b-2eb3d09814ce)
+
 
 ## Flag
 `citadel{th1s_ch4ll3ng3_1s_f0r_th4t_0n3_ex1ft00l_4nd_b1nw4lk_enthus14st}`
