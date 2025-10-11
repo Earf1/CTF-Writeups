@@ -41,7 +41,8 @@ Here "kdj had a habit of hiding images within images", made me open the image in
 
 This gave me another image which had the flag.
 
-![Untitled1](https://github.com/user-attachments/assets/0b396007-1c1f-4c48-ac8b-2eb3d09814ce)
+
+<img width="640" height="613" alt="Untitled3" src="https://github.com/user-attachments/assets/08429ec2-03cf-410a-94a2-d6983ee8f50b" />
 
 
 ## Flag
