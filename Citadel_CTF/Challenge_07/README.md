@@ -19,9 +19,10 @@ I went through the commit history, and found
 - Remove secret chunk 2 file (history-only)
 - Remove secret chunk 1 file (history-only)
 
-For chunk 1 there was `Y2l0YWRlbHt3M180cjM=` which is b64 and decoded to `citadel{w3_4r3`
-For chunk 2 there was `X3VwXzRsbF9uMXQzXw==` which is b64 and decoded to `_up_4ll_n1t3_`
-For chunk 3 there was `dDBfZzF0X2x1Y2t5fQ==` which is b64 and decoed to `t0_g1t_lucky}`
+Now
+- For chunk 1 there was `Y2l0YWRlbHt3M180cjM=` which is b64 and decoded to `citadel{w3_4r3`
+- For chunk 2 there was `X3VwXzRsbF9uMXQzXw==` which is b64 and decoded to `_up_4ll_n1t3_`
+- For chunk 3 there was `dDBfZzF0X2x1Y2t5fQ==` which is b64 and decoed to `t0_g1t_lucky}`
 
 
 ## Flag
