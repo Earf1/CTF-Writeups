@@ -14,7 +14,8 @@ The .wav file has morse code playing continously through it, but theres also an 
 
 Listening to it i heard a weird screech at `1:00` and `1:12`, so i opened this part in a spectogram analyser and got
 
-.
+<img width="517" height="213" alt="image" src="https://github.com/user-attachments/assets/6c6403e7-8fc8-4e52-8027-bea2807c4e8d" />
+
 
 Then i got the morse from the middle of citadel{} to be `.----   .-.. ----- ...- ...--   .---- -.. --` which translates to `1 L0V3 1DM`
 
