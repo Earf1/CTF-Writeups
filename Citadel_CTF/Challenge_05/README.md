@@ -11,6 +11,9 @@ Ahead, a door glows faintly. It is the only path forward and requires a level of
 
 Opening the website, i saw 
 
+<img width="672" height="529" alt="image" src="https://github.com/user-attachments/assets/0d6ce4b6-4b61-4b48-8b49-178c15c93bcd" />
+
+
 Opening the website in proxy mode on BurpSuite, I saw a cookie called user, which i just changed to admin and i was able to get the flag.
 
 ## Flag
