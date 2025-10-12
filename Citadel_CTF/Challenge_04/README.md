@@ -17,4 +17,4 @@ i used "ginkgo" as the key and got `now use the key 'panchiko' on flag: rigckmv{
 using "pachinko" now i got the flag `citadel{add_vinegar_twice}`
 
 ## Flag
-`citadel{add_vinegar_twice}`
+`citadel{add_vinegar_twice}
