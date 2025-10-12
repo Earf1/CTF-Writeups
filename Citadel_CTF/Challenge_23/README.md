@@ -12,7 +12,8 @@ Looking for FIELDATA encoding led me to `https://www.fourmilab.ch/documents/univ
 Using the lookup table provided here, i wrote a script to decode the transmission and got `]R3B3LL10N$&[BU1]LT:0N[H0]P3`
 
 I was stuck on this output for quite a while, but looking closely at the lookup table again i found
-.
+
+<img width="421" height="44" alt="image" src="https://github.com/user-attachments/assets/842485a2-1130-46db-accb-18dd52418d3f" />
 
 Thus, i performed the case shift operations and got the message as `r3b3ll10n$&BU1lt:0nH0p3`
 
